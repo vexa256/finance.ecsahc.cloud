@@ -1,0 +1,1 @@
+<?php /**PATH /var/www/html/finance.ecsa/views/buttons/btn.blade.php ENDPATH**/ ?>

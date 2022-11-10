@@ -1,0 +1,1 @@
+<?php /**PATH /var/www/html/africhild.mis/views/buttons/btn.blade.php ENDPATH**/ ?>
