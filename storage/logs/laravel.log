@@ -74,3 +74,51 @@
 [stacktrace]
 #0 {main}
 "} 
+[2022-11-10 10:25:07] local.ERROR: Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) at /var/www/html/finance.ecsa/app/GlobalFunctions.php:4)
+[stacktrace]
+#0 {main}
+"} 
+[2022-11-10 10:26:07] local.ERROR: Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) at /var/www/html/finance.ecsa/app/GlobalFunctions.php:4)
+[stacktrace]
+#0 {main}
+"} 
+[2022-11-10 10:27:07] local.ERROR: Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) at /var/www/html/finance.ecsa/app/GlobalFunctions.php:4)
+[stacktrace]
+#0 {main}
+"} 
+[2022-11-10 10:28:07] local.ERROR: Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) at /var/www/html/finance.ecsa/app/GlobalFunctions.php:4)
+[stacktrace]
+#0 {main}
+"} 
+[2022-11-10 10:29:07] local.ERROR: Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) at /var/www/html/finance.ecsa/app/GlobalFunctions.php:4)
+[stacktrace]
+#0 {main}
+"} 
+[2022-11-10 10:30:07] local.ERROR: Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) at /var/www/html/finance.ecsa/app/GlobalFunctions.php:4)
+[stacktrace]
+#0 {main}
+"} 
+[2022-11-10 10:31:07] local.ERROR: Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) at /var/www/html/finance.ecsa/app/GlobalFunctions.php:4)
+[stacktrace]
+#0 {main}
+"} 
+[2022-11-10 10:32:07] local.ERROR: Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) at /var/www/html/finance.ecsa/app/GlobalFunctions.php:4)
+[stacktrace]
+#0 {main}
+"} 
+[2022-11-10 10:33:07] local.ERROR: Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) at /var/www/html/finance.ecsa/app/GlobalFunctions.php:4)
+[stacktrace]
+#0 {main}
+"} 
+[2022-11-10 10:34:07] local.ERROR: Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) at /var/www/html/finance.ecsa/app/GlobalFunctions.php:4)
+[stacktrace]
+#0 {main}
+"} 
+[2022-11-10 10:35:07] local.ERROR: Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) at /var/www/html/finance.ecsa/app/GlobalFunctions.php:4)
+[stacktrace]
+#0 {main}
+"} 
+[2022-11-10 10:36:07] local.ERROR: Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare MenuItem() (previously declared in /var/www/html/finance.ecsa/app/GlobalFunctions.php:4) at /var/www/html/finance.ecsa/app/GlobalFunctions.php:4)
+[stacktrace]
+#0 {main}
+"} 
